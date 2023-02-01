@@ -12,3 +12,17 @@ Cons
 2. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 
 the key difference is that the Scrum Master leads a developement team, plans out tasks, and also helps the product owner. The Product Owner checks the progress that is being made and manages the backlogs.
+
+3. What are the 3 types of meetings that happen during a sprint cycle? list at least 2 points on what needs to be discussed during each of these meetings.
+
+  1.Daily Scrum/Standup Meeting
+    1. Short meeting that happens every day of the sprint. Discuss work completed.
+    2. Another thing that is usually discussed is plan for the day.
+    
+  2. Sprint Retrospective Meeting
+    1. Occurs at the end of the sprint. One thing discussed is the work that was complete
+    2. Another thing that is discussed in this meeting is what is the next task to be completed in the backlog.
+    
+  3. Sprint Planning Meeting
+    1. Determine what to complete in the coming sprint
+    2. determine story points and assign stories to team. 
