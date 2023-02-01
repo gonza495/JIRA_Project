@@ -1,1 +1,9 @@
 
+What are some Pros and Cons of Agile developement (vs non-Agile)? List 2 of each
+Pros
+1. Agile developement allows for more flexibility
+2. Agile developement utilizes a better form of communication than non-Agile developement thus making it better for communication 
+
+Cons
+1. One con to Agile developement is that Documentation of progress can be lost
+2. Another con of Agile developement is that it is less predictable, software developers could work on various things 
