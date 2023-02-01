@@ -8,3 +8,7 @@ Cons
 1. One con to Agile developement is that Documentation of progress can be lost
 2. Another con of Agile developement is that it is less predictable, software developers could work on various things 
 
+
+2. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+the key difference is that the Scrum Master leads a developement team, plans out tasks, and also helps the product owner. The Product Owner checks the progress that is being made and manages the backlogs.
