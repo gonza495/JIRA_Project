@@ -26,3 +26,13 @@ the key difference is that the Scrum Master leads a developement team, plans out
   3. Sprint Planning Meeting
     1. Determine what to complete in the coming sprint
     2. determine story points and assign stories to team. 
+    
+  4.   Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+Epic- An epic is a greater section of a project. an epic is like a milestone marker. to get to this milestone you need to complete a lot of tasks within it, called stories.
+
+Story-  A story is part of an epic and is a stepping stone in completing an epic. Once you finish all stories in an Epic, that completes the epic and you can move forward to another epic or task. 
+
+Bug- A bug is an issue that has came when working on a story or epic. This could be when work is revised and manager wants something revised or different functionality in place.
+
+Task - a task is work that is assigned to you via scrum master, teammate, or product owner. This is work that is expected to be completed by the person assigned to it.  
