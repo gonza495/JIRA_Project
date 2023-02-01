@@ -8,31 +8,3 @@ Cons
 1. One con to Agile developement is that Documentation of progress can be lost
 2. Another con of Agile developement is that it is less predictable, software developers could work on various things 
 
-
-2. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
-
-the key difference is that the Scrum Master leads a developement team, plans out tasks, and also helps the product owner. The Product Owner checks the progress that is being made and manages the backlogs. 
-
-3. What are the 3 types of meetings that happen during a sprint cycle? list at least 2 points on what needs to be discussed during each of these meetings.
-
-  1.Daily Scrum/Standup Meeting
-    1. Short meeting that happens every day of the sprint. Discuss work completed.
-    2. Another thing that is usually discussed is plan for the day.
-    
-  2. Sprint Retrospective Meeting
-    1. Occurs at the end of the sprint. One thing discussed is the work that was complete
-    2. Another thing that is discussed in this meeting is what is the next task to be completed in the backlog.
-    
-  3. Sprint Planning Meeting
-    1. Determine what to complete in the coming sprint
-    2. determine story points and assign stories to team. 
-    
-4.   Differentiate between Epic, Story, Bug, and Task issue types in JIRA
-
-Epic- An epic is a greater section of a project. an epic is like a milestone marker. to get to this milestone you need to complete a lot of tasks within it, called stories.
-
-Story-  A story is part of an epic and is a stepping stone in completing an epic. Once you finish all stories in an Epic, that completes the epic and you can move forward to another epic or task. 
-
-Bug- A bug is an issue that has came when working on a story or epic. This could be when work is revised and manager wants something revised or different functionality in place.
-
-Task - a task is work that is assigned to you via scrum master, teammate, or product owner. This is work that is expected to be completed by the person assigned to it.  
